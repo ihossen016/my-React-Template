@@ -1,6 +1,6 @@
 # Project Name
 
-Frontend Template.
+Frontend Template
 
 ## After Cloning
 
