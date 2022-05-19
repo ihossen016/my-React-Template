@@ -1,11 +1,6 @@
 # Project Name
 
-A short Description 
-
-Open [Live Demo](<the link>) to view it in action.
-
-
-![preview sreenshot](screenShot.jpg)
+Frontend Template
 
 ## After Cloning
 
